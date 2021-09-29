@@ -1,4 +1,4 @@
-#This is a test python lock which will lock your python for 1 hr after called
+#This is a test python lock which will lock your python for 1 hr after called. Takes a break...
 
 ```
 pip install git+https://github.com/DAF201/lock
