@@ -18,4 +18,6 @@ this will lock your python for 1 hour, if any action is engaged, the countdown w
 
 It will automatically unlock after no action for 1 hr
 
+~~This should belong to toys but I just want to make it easier to test~~
+
 <img src='https://github.com/DAF201/locks/blob/main/locks/Screenshot%20(370).png'>
