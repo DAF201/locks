@@ -1,5 +1,7 @@
 #This is a test python lock which will lock your python for 1 hr after called. Takes a break please...
 
+##This don't work with linux system! I tried on my pi
+
 ```
 pip install git+https://github.com/DAF201/lock
 ```
