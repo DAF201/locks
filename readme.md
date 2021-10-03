@@ -27,3 +27,5 @@ It will automatically unlock after no action for 1 hr
 ___
 
 to unlock, go to site-package, remove usercustomize.py
+
+the package is just the part creates a lock
